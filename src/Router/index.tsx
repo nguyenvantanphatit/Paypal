@@ -1,5 +1,5 @@
 import { Routes, Route, BrowserRouter } from "react-router-dom";
-import Signin from "../Pages/Signin";
+import Signin from "../Pages/Signin/Map";
 import Dashboard from "../Pages/Dashboard";
 import PrivateRoute from "./PrivateRoute";
 import NotFound from "../Pages/Error/NotFound";
